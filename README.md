@@ -1,4 +1,4 @@
-# blockchain
+# Blockchain
 
 All these smart contracts were deployed and built using the remix IDE (https://remix.ethereum.org).
 

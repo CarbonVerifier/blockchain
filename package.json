@@ -1,7 +1,7 @@
 {
   "name": "blockchain",
   "version": "1.0.0",
-  "description": "",
+  "description": "All these smart contracts were deployed and built using the remix IDE (https://remix.ethereum.org).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@chainlink/contracts": "^0.6.1",
-    "@openzeppelin/contracts": "^4.8.3"
+    "@openzeppelin/contracts": "^4.8.3",
+    "@truffle/hdwallet-provider": "^2.1.11",
+    "dotenv": "^16.0.3",
+    "toucan-sdk": "^1.0.4-beta"
   }
 }
